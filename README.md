@@ -51,7 +51,7 @@ You can work with the models with irb by running
 
 1. Use Active Record's `create` class method multiple times to create 3 stores in the database:
 
-- Burnaby (annual_revenue of 300000, carries men's and women's apparel)
+- Burnaby (annual_revenue of 300000, carries men's and women's apparel)cre
 - Richmond (annual_revenue of 1260000 carries women's apparel only)
 - Gastown (annual_revenue of 190000 carries men's apparel only)
 
